@@ -1,6 +1,5 @@
 'use strict';
 
-
 const Dias_Semana = [
   { dia: 'lunes' },
   { dia: 'martes' },
